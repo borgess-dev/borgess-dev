@@ -13,7 +13,7 @@
 <p align="left">• 💻 Técnico em Informática (Instituto Federal do Triângulo Mineiro)<br>• 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas (Instituto Federal do Triângulo Mineiro, Conclusão em 2025-2)<br>• 📚 Estudo contínuo em React e Spring Framework (Java)<br>• 📱 Sempre explorando novas tecnologias!</p>
 
 ###
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borgess-dev/borgess-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/borgess-dev/borgess-dev/output/pacman-contribution-graph.svg">
@@ -32,7 +32,7 @@
 </div>
 
 ###
-
+---
 <h3 align="left">🌻 Tecnologias</h3>
 
 ###
@@ -88,7 +88,7 @@
 </div>
 
 ###
-
+---
 <p align="left">Formado como <strong>Técnico em Informática pelo Instituto Federal do Triângulo Mineiro</strong>, decidi mergulhar no profundo oceano da tecnologia partindo para outro passo: <strong>cursar Análise e Desenvolvimento de Sistemas</strong>.<br><br>Sabendo que ela está uma evolução que não cessa, mantenho-me em constante estudo. Aprofundo-me cada dia mais em <strong>Javascript/Typescript, com foco em React</strong>, para o desenvolvimento de interfaces do usuário, e no meu amado <strong>Spring Framework (Java)</strong>, para o backend das aplicações. Além disso, busco conhecimentos sólidos em Docker; 😊<br><br>O melhor modo de aprender é colocar em prática e é isso que faço!🚀<br><br>Gostaria de me conhecer melhor? Vamos nos conectar por meio das redes sociais! 🤩</p>
 
 ###
