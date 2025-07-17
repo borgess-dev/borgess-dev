@@ -13,7 +13,6 @@
 <p align="left">• 💻 Técnico em Informática (Instituto Federal do Triângulo Mineiro)<br>• 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas (Instituto Federal do Triângulo Mineiro, Conclusão em 2025-2)<br>• 📚 Estudo contínuo em React e Spring Framework (Java)<br>• 📱 Sempre explorando novas tecnologias!</p>
 ###
 ---
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/borgess-dev/borgess-dev/output/pacman-contribution-graph-dark.svg">
